@@ -1,3 +1,5 @@
 let idade: number
-idade = 20
+idade = 22
 console.log(idade)
+
+export default idade
