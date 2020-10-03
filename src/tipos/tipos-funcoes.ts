@@ -8,3 +8,10 @@ function retornaIdade(): number{
 }
 
 console.log(retornaIdade())
+
+// Tipos de return de funcao
+function calculoRH(preco: number, quantidade: number): number {
+  return preco * quantidade
+}
+
+console.log(calculoRH(12,2))
